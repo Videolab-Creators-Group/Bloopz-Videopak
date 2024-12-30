@@ -12,6 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3f53bc1b26fd1481091485ca15744c78, type: 3}
   m_Name: VideopakSettings
   m_EditorClassIdentifier: 
-  pakName: BLOOPZ_V6
-  author: Jebraldo
-  icon: {fileID: 2800000, guid: 5ab2a613aaf748744a9defef40cf0275, type: 3}
+  configs:
+  - bundleName: bloopzv4
+    pakName: bloopzv4
+    author: user
+    icon: {fileID: 0}
+  - bundleName: bloopzv6
+    pakName: bloopzv6
+    author: user
+    icon: {fileID: 0}
