@@ -1,1 +1,3 @@
 # Bloopz Videopak
+
+Waiting for readme from jebraldo...
